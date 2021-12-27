@@ -1,5 +1,5 @@
 provider "google" {
-  version = "2.5.0"
+  version = "2.20.3"
   project = "instrumenta"
   region = "europe-west2"
 
