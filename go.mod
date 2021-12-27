@@ -81,4 +81,4 @@ require (
 	sigs.k8s.io/structured-merge-diff v0.0.0-20190525122527-15d366b2352e // indirect
 )
 
-replace github.com/golang/lint => golang.org/x/lint v0.0.0-20190409202823-959b441ac422
+replace github.com/golang/lint => golang.org/x/lint 6edffad5e616
