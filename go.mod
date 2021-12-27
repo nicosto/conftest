@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	cloud.google.com/go v0.39.0 // indirect
-	github.com/BurntSushi/toml v0.3.1
+	github.com/BurntSushi/toml v0.4.1
 	github.com/Microsoft/go-winio v0.4.12 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
