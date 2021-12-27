@@ -14,7 +14,7 @@ require (
 	github.com/containerd/continuity v0.0.0-20190426062206-aaeac12a7ffc // indirect
 	github.com/coreos/etcd v3.3.13+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
-	github.com/deislabs/oras v0.5.1-0.20190510174428-2836a4314d4a
+	github.com/deislabs/oras v0.12.0
 	github.com/dgryski/go-sip13 v0.0.0-20190329191031-25c5027a8c7b // indirect
 	github.com/docker/cli v0.0.0-20190511004558-53fc257292ad // indirect
 	github.com/docker/docker-credential-helpers v0.6.2 // indirect
