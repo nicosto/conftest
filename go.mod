@@ -10,7 +10,7 @@ require (
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
 	github.com/PuerkitoBio/purell v1.1.1 // indirect
 	github.com/bugsnag/bugsnag-go v1.5.1 // indirect
-	github.com/containerd/containerd v1.2.6
+	github.com/containerd/containerd v1.5.8
 	github.com/containerd/continuity v0.0.0-20190426062206-aaeac12a7ffc // indirect
 	github.com/coreos/etcd v3.3.13+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
